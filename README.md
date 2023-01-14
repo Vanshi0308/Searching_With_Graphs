@@ -1,4 +1,4 @@
-# Searching with graphs
+# Searching with Graphs
 
 #### By Vanshika Sinha
 
